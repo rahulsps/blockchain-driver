@@ -1,5 +1,5 @@
 {
-  "name": "blockchain-driver",
+  "name": "blockchain-data-driver",
   "version": "1.0.0",
   "description": "a common gateway to interact with different blockchains for same purpose",
   "main": "index.js",
