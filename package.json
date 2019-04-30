@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-driver",
+  "version": "1.0.0",
+  "description": "a common gateway to interact with different blockchains for same purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsps/blockchain-driver.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "rahulsps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulsps/blockchain-driver/issues"
+  },
+  "homepage": "https://github.com/rahulsps/blockchain-driver#readme"
+}
